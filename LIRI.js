@@ -1,16 +1,25 @@
 require("dotenv").config();
 
-let liriQuery = process.argv[2];
-let input = process.argv.slice(3).join(" ");;
+
+let keys = require("./keys.js");
+let Spotify = require('node-spotify-api');
+let spotify = new Spotify(keys.spotify);
 let axios = require("axios");
 let moment = require("moment");
 let fs = require("fs");
 
 
-function searchQuery() {
-    switch (liriQuery) {
+let liriQuery = process.argv[2];
+let input = process.argv.slice(3).join(" ");
+
+
+
+
+
+function searchQuery(term) {
+    switch (term) {
         case "spotify-this-song":
-            spotify();
+            nameThatSong();
             break;
         case "movie-this":
             movie();
@@ -21,20 +30,15 @@ function searchQuery() {
         case "do-what-it-says":
             doSomething();
             break;
+        default:
+            console.log(`Invalid Choice`)
     }
 }
 
-searchQuery()
+searchQuery(liriQuery)
 
 
-function spotify() {
-
-    let Spotify = require('node-spotify-api');
-
-    let spotify = new Spotify({
-        id: "9ca97e1d28434c57ae8188f43d3388ea",
-        secret: "4beec46599724168b221261ed3d30311"
-    });
+function nameThatSong() {
 
     spotify.search({
         type: 'track',
@@ -110,6 +114,13 @@ function bands() {
                 console.log(`|Venue Location: ${concertSearch.venue.city}`);
                 console.log(`|Date of the Event: ${moment(concertSearch.datetime).format('LL')}`);
                 console.log(`========================================`);
+
+                fs.appendFileSync("log.txt", `===============Concert ${i}===============\n`);
+                fs.appendFileSync("log.txt", `|Artist Lineup: ${concertSearch.lineup}`);
+                fs.appendFileSync("log.txt", `|Name of the Venue: ${concertSearch.venue.name}`);
+                fs.appendFileSync("log.txt", `|Venue Location: ${concertSearch.venue.city}\n`);
+                fs.appendFileSync("log.txt", `|Date of the Event: ${moment(concertSearch.datetime).format('LL')}\n`);
+                console.log(`========================================`);
             }
         })
         .catch(function (error) {
@@ -123,6 +134,8 @@ function doSomething() {
             return console.log(err);
         }
         let dataArr = data.split(',');
-        searchQuery(dataArr[0], dataArr[1]);
+        input = dataArr[1]
+
+        searchQuery(dataArr[0])
     });
 }
