@@ -1678,3 +1678,123 @@
 |Album Name: Bitch Betta Have My Money
 |Preview song: https://p.scdn.co/mp3-preview/72459d57c3cc5ed6f67775b973aa6035d25d85d8?cid=9ca97e1d28434c57ae8188f43d3388ea
 ========================================
+===============Song 1===============
+|Artist:  Juvenile
+|Song Name: Back That Thang Up
+|Album Name: Greatest Hits
+|Preview song: null
+========================================
+===============Song 2===============
+|Artist:  Juvenile
+|Song Name: Back That Thang Up
+|Album Name: Greatest Hits
+|Preview song: null
+========================================
+===============Song 3===============
+|Artist:  Tyrone Davis
+|Song Name: Back That Thang Up
+|Album Name: Come To Daddy
+|Preview song: https://p.scdn.co/mp3-preview/f33cf275c97710f5044ae290b7d96a98c5a5f7d0?cid=9ca97e1d28434c57ae8188f43d3388ea
+========================================
+===============Song 4===============
+|Artist:  Rick Lawson
+|Song Name: Back That Thang Up
+|Album Name: Beach Music Party
+|Preview song: https://p.scdn.co/mp3-preview/4fc30fe86edbaafd499ab13e25cfb7db2f566005?cid=9ca97e1d28434c57ae8188f43d3388ea
+========================================
+===============Song 5===============
+|Artist:  Juvenile
+|Song Name: Back That Thang Up
+|Album Name: Greatest Hits
+|Preview song: null
+========================================
+===============Song 6===============
+|Artist:  Ms. Sancha
+|Song Name: Back That Thang Up Feat. Mr. Sancho
+|Album Name: WWW. Ms SanchLive.com
+|Preview song: https://p.scdn.co/mp3-preview/dc237636ee3e5c8828b3029f5167dc155e3a205c?cid=9ca97e1d28434c57ae8188f43d3388ea
+========================================
+===============Song 7===============
+|Artist:  DJ Jubilee
+|Song Name: Back That Thang Up
+|Album Name: Take It to the St Thomas
+|Preview song: https://p.scdn.co/mp3-preview/078cd7e0f17da7aa0933e2ac629ea3bfd84323f4?cid=9ca97e1d28434c57ae8188f43d3388ea
+========================================
+===============Song 8===============
+|Artist:  Mrfrontrow
+|Song Name: Back That Thang Up
+|Album Name: Back That Thang Up
+|Preview song: https://p.scdn.co/mp3-preview/69b29c3e098144a6dcfac79f54c190bc7dc575f0?cid=9ca97e1d28434c57ae8188f43d3388ea
+========================================
+===============Song 9===============
+|Artist:  Sherman Thomas
+|Song Name: Back That Thang Up
+|Album Name: Mississippi Woman
+|Preview song: https://p.scdn.co/mp3-preview/9e4ea0d97e63be0a0b93b3f1e51ce578e0f50c4d?cid=9ca97e1d28434c57ae8188f43d3388ea
+========================================
+===============Song 10===============
+|Artist:  Various Artists
+|Song Name: Back That Thang Up
+|Album Name: Beach Music Party
+|Preview song: https://p.scdn.co/mp3-preview/df423c151b200268c4fde42bd57e2aaca9d034dc?cid=9ca97e1d28434c57ae8188f43d3388ea
+========================================
+===============Song 11===============
+|Artist:  Various Artists
+|Song Name: Back That Thang Up
+|Album Name: Soul Blues Hits, Vol. 3
+|Preview song: https://p.scdn.co/mp3-preview/e862e56917848054f36ec176dd41f837fbbfe959?cid=9ca97e1d28434c57ae8188f43d3388ea
+========================================
+===============Song 12===============
+|Artist:  Alleykat Numoney
+|Song Name: Back That Thang Up
+|Album Name: Land of No Smiles
+|Preview song: https://p.scdn.co/mp3-preview/bc5a66d54924ea3b6f2c14acbacec35af150acae?cid=9ca97e1d28434c57ae8188f43d3388ea
+========================================
+===============Song 13===============
+|Artist:  Rick Lawson
+|Song Name: Back That Thang Up
+|Album Name: Soul Blues Hits, Vol. 3
+|Preview song: https://p.scdn.co/mp3-preview/a86810bcce7bd04fb41238f33566cf9ccf4ef353?cid=9ca97e1d28434c57ae8188f43d3388ea
+========================================
+===============Song 14===============
+|Artist:  Dash of Honey
+|Song Name: Back That Thang Up
+|Album Name: Get Twerking
+|Preview song: https://p.scdn.co/mp3-preview/9aff2a0dea5e8fa92fcb77d4eb50d0ba1deda44c?cid=9ca97e1d28434c57ae8188f43d3388ea
+========================================
+===============Song 15===============
+|Artist:  The Hit Crew
+|Song Name: Back That Thang Up
+|Album Name: Dance Recital: Hip Hop
+|Preview song: https://p.scdn.co/mp3-preview/dc826fb83a2aa8b1579e56028d744e9bcf7ba024?cid=9ca97e1d28434c57ae8188f43d3388ea
+========================================
+===============Song 16===============
+|Artist:  Life of the Party
+|Song Name: Back That Thang Up
+|Album Name: Southern Grit Hip-Hop Hits
+|Preview song: https://p.scdn.co/mp3-preview/34dff94e2b61de0390e595e8d5f855ae9da4bc3f?cid=9ca97e1d28434c57ae8188f43d3388ea
+========================================
+===============Song 17===============
+|Artist:  The Karaoke Channel
+|Song Name: Back That Thang Up
+|Album Name: The Karaoke Channel - Sing Back That Thang up Like Juvenile Feat. Mannie Fresh & Lil' Wayne
+|Preview song: https://p.scdn.co/mp3-preview/3b09feaab197aba323791aa8300791193251f383?cid=9ca97e1d28434c57ae8188f43d3388ea
+========================================
+===============Song 18===============
+|Artist:  Players Since Creation
+|Song Name: Back That Thang Up
+|Album Name: Deeper in Love
+|Preview song: https://p.scdn.co/mp3-preview/9aff2a0dea5e8fa92fcb77d4eb50d0ba1deda44c?cid=9ca97e1d28434c57ae8188f43d3388ea
+========================================
+===============Song 19===============
+|Artist:  Hit Crew Masters
+|Song Name: Back That Thang Up
+|Album Name: Phat Hip-Hop/Rap Hits, Vol. 2
+|Preview song: https://p.scdn.co/mp3-preview/fc04c63ff370f93665e0183db276aacadfc3bc11?cid=9ca97e1d28434c57ae8188f43d3388ea
+========================================
+===============Song 20===============
+|Artist:  The Hit Crew
+|Song Name: Back That Thang Up
+|Album Name: Drew’s Famous Ultimate Party Music
+|Preview song: null
+========================================
